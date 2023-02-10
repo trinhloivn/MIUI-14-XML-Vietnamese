@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="airplane_text">Máy bay</string>
+    <string name="fastboot_text">Fastboot</string>
+    <string name="silent_text">Tắt tiếng</string>
+    <string name="recovery_text">Recovery</string>
     <string name="already_in_small_freeform">Một vài ứng dụng đã mở trong cửa sổ nổi</string>
 	<string name="quick_settings_hang_on">Bạn có thể sử dụng cửa sổ nổi</string>
 	<string name="no_avaliable_application">Không có ứng dụng khả dụng</string>
