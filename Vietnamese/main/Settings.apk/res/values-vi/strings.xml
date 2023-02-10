@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="elite_blog_title">Trang web phát triển Elite</string>
+    <string name="elite_blog_summary">Luôn cập nhật những tin tức mới nhất</string>
+    <string name="elite_upd_channel">Kênh cập nhật</string>
+    <string name="elite_upd_channel_summary">Tin tức, cập nhật về EliteRoms trên Telegram</string>
+    <string name="support_group">Nhóm hỗ trợ</string>
+    <string name="support_group_summary">Thảo luận về EliteRoms trong nhóm Telegram</string>
+    <string name="plus_details">Đăng kí NextGen/Gaming Roms</string>
+    <string name="screenshots_tit">Ảnh chụp màn hình của NextGen/Gaming Roms</string>
+    <string name="plus_details_summary">Ảnh chụp màn hình, tất cả thông tin về các phiên bản trả phí</string>
+    <string name="xda_profile">Theo dõi chúng tôi trên XDA</string>
+    <string name="xda_profile_summary">Trang web hồ sơ XDA</string>
+    <string name="elite_dev_title">Dự án phát triển Elite</string>
+    <string name="elite_dev_title_summ">Web, thông tin, mạng xã hội, chi tiết về phiên bản Plus/Trả phí</string>
+    <string name="elite_settings_title">Tuỳ biến Elite</string>
+    <string name="elite_plus_title">Mở khóa EliteRomPlus với tất cả tùy chỉnh</string>
+    <string name="support_donate_title">Hỗ trợ dự án</string>
+    <string name="support_donate_summary">Hỗ trợ dự án với sự đóng góp</string>
+    <string name="elite_plus_details">Nhận đăng ký Plus cho các tính năng độc đáo mới, v.v.</string>
+    <string name="dnotif_icons_numbers">Số biểu tượng thông báo</string>
+    <string name="screenshot_any_app_title">Ảnh chụp màn hình trong bất kỳ ứng dụng nào</string>
+    <string name="screenshot_any_app_summary">Cho phép chụp ảnh màn hình trong bất kỳ ứng dụng nào</string>
+    <string name="disable_global_darkmode_title">Tắt chế độ tối toàn cầu</string>
+    <string name="toggle_count_title">Số cột thanh tuy cập nhanh\n(Trung tâm điều khiển phiên bản cũ)</string>
+    <string name="toggles_count_title">Số cột khi mở rộng thanh truy cập\n(Trung tâm điều khiển phiên bản cũ)</string>
+    <string name="toggles_count_rows_title">Số hàng khi mở rộng thanh truy cập\n(Trung tâm điều khiển phiên bản cũ)</string>
+    <string name="col_elite_cc_title">Số hàng trong Trung tâm điều khiển MIUI 12</string>
+    <string name="icon_elite_app_color_title">Biểu tượng thông báo màu</string>
+    <string name="charge_animation_style_title2">Hiệu ứng sạc</string>
+    <string name="power_menu_elite">Menu nguồn mở rộng kiểu cũ</string>
+    <string name="power_menu_elite_summ">Khởi động lại để có hiệu lực</string>
+    <string name="set_elite_pip_size_title">Kích thước Hình trong Hình</string>
+    <string name="set_pip_corner_summary">Bật làm tròn các góc cửa sổ trong Menu truy cập gần đây</string>
+    <string name="set_elite_pip_corner_title">Bật làm tròn các góc cửa sổ</string>
+    <string name="power_menu_under_keyguard_summary">Cho phép truy cập menu nguồn trong khi thiết bị khóa</string>
+    <string name="power_menu_under_keyguard_title">Truy cập menu nguồn</string>
+    <string name="privacy_elite_dot_title">Biểu tượng chỉ báo quyền riêng tư</string>
+    <string name="privacy_elite_dot_summ">Hiển thị hoặc ẩn biểu tượng màu xanh lá cây khi truy cập camera, mic</string>
+    <string name="set_max_bar_icons_title">Số biểu tượng trên thanh Dock</string>
+    <string name="folder_elite_count_title">Số cột trong thư mục</string>
+    <string name="time_format_entries_1">%d-tiếng 1:00 CH</string>
+    <string name="time_format_entries_2">%d-tiếng 13:00</string>
     <string name="gxzw_anim_metal">Kim loại</string>
     <string name="gxzw_anim_pulse">Mạch xung</string>
     <string name="gxzw_anim_rhythm">Nhịp điệu</string>
@@ -7887,8 +7928,6 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="notification_style_title">Kiểu thông báo</string>
     <string name="notify_connect">Nhắc CMCC Wi-Fi</string>
     <string name="peek_notification_icon_title">Hiển thị biểu tượng cho thông báo đến</string>
-    <string name="power_menu_under_keyguard_summary">Truy cập menu nút nguồn khi thiết bị khóa</string>
-    <string name="power_menu_under_keyguard_title">Truy cập menu nút nguồn</string>
     <string name="priority_summary">Hiển thị thông báo trên đầu danh sách</string>
     <string name="priority_title">Ưu tiên</string>
     <string name="profiles_settings_title">Hồ sơ hệ thống</string>
@@ -12169,7 +12208,7 @@ Có người dùng khác trên thiết bị này.
 	<string name="beauty_fc_assistant">Trợ lý Camera trước</string>
 	<string name="privacy_lab_settings">Lab bảo vệ riêng tư</string>
 	<string name="memorycard_calculating">Đang tính…</string>
-	<string name="gd_setting_title">Sidebar</string>
+	<string name="gd_setting_title">Thanh bên</string>
 	<string name="menu_item_notification_power_text">Tối ưu pin</string>
 	<string name="security_check_progress_dialog_message">Kiểm tra các vấn đề bảo mật…</string>
 	<string name="accessibility_magnification_mode_dialog_option_switch">Toàn màn hình &amp; một phần màn hình</string>
@@ -12390,7 +12429,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 3. Chọn xem bạn muốn sử dụng nút hay cử chỉ để truy cập tính năng"</string>
     <string name="accessibility_button_gesture_footer_learn_more_content_description">Tìm hiểu thêm về nút hỗ trợ tiếp cận &amp; cử chỉ</string>
     <string name="accessibility_button_gesture_title">Nút trợ năng &amp; cử chỉ</string>
-	<string name="freeform_guide_vedio_description">Nhấn vào một ứng dụng trên sidebar để mở ứng dụng đó trong cửa sổ nổi</string>
+	<string name="freeform_guide_vedio_description">Nhấn vào một ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi</string>
 	<string name="miui_bubbles_notification">Bong bóng hội thoại</string>
 	<string name="freeform_guide_to_sidehide_summary">Kéo nhanh ứng dụng sang hai bên màn hình để ẩn đi</string>
     <string name="freeform_guide_to_sidehide_title">Ẩn cửa sổ nổi</string>

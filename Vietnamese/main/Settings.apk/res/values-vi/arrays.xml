@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="folder_elite_count_entries">
+        <item>3 cột</item>
+        <item>4 cột</item>
+    </array>
+    <array name="pip_elite_size_entries">
+        <item>Mặc định</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+    </array>
     <string-array name="keyguard_notification_status_entries">
         <item>Bật màn hình</item>
         <item>Hiển thị ảnh động</item>
